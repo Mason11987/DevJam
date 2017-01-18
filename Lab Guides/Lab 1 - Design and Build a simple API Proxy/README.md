@@ -78,7 +78,7 @@ Let's create & import the spec in Apigee Edge using above hotels example.
 
 	Filename: {your-initials}_hotels_spec
 
-	URL: [https://raw.githubusercontent.com/apigee/DevJam/master/Resources/hotels-openapi.json](https://raw.githubusercontent.com/apigee/DevJam/master/Resources/hotels-openapi.json)
+	URL: [https://raw.githubusercontent.com/aliceinapiland/DevJam/master/Resources/hotels-openapi.json](https://raw.githubusercontent.com/aliceinapiland/DevJam/master/Resources/hotels-openapi.json)
 8. Click Import.
 
 	The OpenAPI Specification is imported.
