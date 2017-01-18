@@ -10,8 +10,8 @@ info:
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
-host: api.usergrid.com
-basePath: /{baas_org}/sandbox
+host: apibaas-trial.apigee.net
+basePath: /dukeenergydevjam/sandbox
 tags:
   - name: hotel
     description: Everything about Hotels

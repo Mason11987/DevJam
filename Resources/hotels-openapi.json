@@ -14,8 +14,8 @@
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         }
     },
-    "host": "api.usergrid.com",
-    "basePath": "/ssridhar/sandbox",
+    "host": "apibaas-trial.apigee.net",
+    "basePath": "/dukeenergydevjam/sandbox",
     "tags": [
         {
             "name": "hotel",
